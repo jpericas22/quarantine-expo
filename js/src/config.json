@@ -1,0 +1,411 @@
+{
+	"SHADER": {
+		"enabled": {"value": false},
+		"size": {"value": 0.2},
+		"rangeOffset": {"value": 7.0},
+		"speedMultiplier": {"value": 0.13},
+		"sinShapeModifier": {"value": 2.0},
+		"brightnessMultiplier": {"value": 0.7},
+		"opacityMultiplier": {"value": 1.0},
+		"brightnessOffset": {"value": 0.0}
+	},
+	"NAV": [
+		{
+			"act": "img/main/menu1act.png",
+			"deact": "img/main/menu1deact.png"
+		},
+		{
+			"act": "img/main/menu2act.png",
+			"deact": "img/main/menu2deact.png"
+		},
+		{
+			"act": "img/main/menu3act.png",
+			"deact": "img/main/menu3deact.png"
+		}
+	],
+	"SCENE": [
+		{
+			"PANORAMA": "img/panorama/1.jpg",
+			"OBJECT": [
+
+				{
+					"name": "",
+					"icon": "img/icon/gsascha01.png",
+					"position": [234.7277729386128, 254.65070846230245, 359.59794768212123],
+					"instagram": "https://www.instagram.com/p/B9bYLc8pv-7/",
+					"sizeMultiplier": 0.5,
+					"rotation": [-20.0, -35.0, 0.0]
+				},
+				{
+					"name": "",
+					"icon": "img/icon/gjosep03.png",
+					"position": [-12.553139581196422, -137.1897694387634, 479.754769349512],
+					"instagram": "https://www.instagram.com/p/BxPHvJLjQgO/",
+					"sizeMultiplier": 0.5,
+					"rotation": [0.0, -40.0, -20.0]
+				},
+				{
+					"name": "",
+					"icon": "img/icon/gjosep01.png",
+					"position": [-309.42933126062655, -18.614630716664955, -390.98732156822524],
+					"instagram": "https://www.instagram.com/p/Bzf7KrSozg6/",
+					"sizeMultiplier": 0.5,
+					"rotation": [0.0, 0.0, 0.0]
+				},
+				{
+					"name": "",
+					"icon": "img/icon/gmilena01.png",
+					"position": [-270.08572644881826, 219.22289812250028, 358.3631307776569],
+					"instagram": "https://www.instagram.com/p/BxxOMQkChcu/",
+					"sizeMultiplier": 0.5,
+					"rotation": [-30.0, 0.0, 0.0]
+				},
+				{
+					"name": "",
+					"icon": "img/icon/gyeper01.png",
+					"position": [465.4659137496076, -177.8976426293251, 27.3553532687297],
+					"instagram": "https://www.instagram.com/p/B-Hd1DQJfRl/",
+					"sizeMultiplier": 0.5,
+					"rotation": [10.0, -30.0, -10.0]
+				},
+				{
+					"name": "",
+					"icon": "img/icon/gvincent01.png",
+					"position": [-106.9436548854083, 401.7472720516538, 277.0649951374559],
+					"instagram": "https://www.instagram.com/p/B9MLd0dCpvG/",
+					"sizeMultiplier": 0.5,
+					"rotation": [-50.0, 45.0, 0.0]
+				},
+				{
+					"name": "",
+					"icon": "img/icon/geliot01.png",
+					"position": [31.258546501151937, 371.68557853724985, -332.2999083674728],
+					"instagram": "https://www.instagram.com/p/B3XHJTtomU5/",
+					"sizeMultiplier": 0.5,
+					"rotation": [-40.0, 30.0, 5.0]
+				},
+				{
+					"name": "",
+					"icon": "img/icon/gibon01.png",
+					"position": [-294.65066973409995, 235.9998350567845, -327.3865609194322],
+					"instagram": "https://www.instagram.com/p/B-NtOqsKeGl/",
+					"sizeMultiplier": 0.5,
+					"rotation": [-15.0, -25.0, -3.0]
+				},
+				{
+					"name": "",
+					"icon": "img/icon/grosh01.png",
+					"position": [-489.99391151578135, -58.76552031549845, 73.5465814711738],
+					"instagram": "https://www.instagram.com/p/BxKTehXJIaM/",
+					"sizeMultiplier": 0.5,
+					"rotation": [0.0, 0.0, 0.0]
+				},
+				{
+					"name": "",
+					"icon": "img/icon/gluce01.png",
+					"position": [474.05036797126604, -17.182993268085053, 156.47725342722228],
+					"instagram": "https://www.instagram.com/p/B5fVxvdKrWL/",
+					"sizeMultiplier": 0.5,
+					"rotation": [0.0, 0.0, 0.0]
+				},
+				{
+					"name": "",
+					"icon": "img/icon/gmikel01.png",
+					"position": [7.2649424168669015, -175.55197170654486, -467.38416915706614],
+					"instagram": "https://www.instagram.com/p/B96fFAADEaY/",
+					"sizeMultiplier": 0.5,
+					"rotation": [0.0, 0.0, 0.0]
+				},
+				{
+					"name": "",
+					"icon": "img/icon/gxavi01.png",
+					"position": [80.80108449743688, 22.413014390889273, 491.8508002360799],
+					"instagram": "https://www.instagram.com/p/BUeNhwXAwq6/",
+					"sizeMultiplier": 0.5,
+					"rotation": [0.0, 0.0, 0.0]
+				},
+				{
+					"name": "",
+					"icon": "img/icon/geloy01.png",
+					"position": [286.69162339518897, -18.450168294729988, 408.3217120527969],
+					"instagram": "https://www.instagram.com/p/Bjt_l6wlSrJ/",
+					"sizeMultiplier": 0.5,
+					"rotation": [0.0, 0.0, 0.0]
+				},
+				{
+					"name": "",
+					"icon": "img/icon/gchave01.png",
+					"position": [-161.4517576252951, -1.090890254225015, -472.8171451812933],
+					"instagram": "https://www.instagram.com/p/B4fyzNvqJQe/",
+					"sizeMultiplier": 0.5,
+					"rotation": [0.0, 0.0, 0.0]
+				},
+				{
+					"name": "",
+					"icon": "img/icon/gadri02.png",
+					"position": [299.7789596884827, -36.60494465885359, -397.8937468701647],
+					"instagram": "https://www.instagram.com/p/BkIHwT2FVeM/",
+					"sizeMultiplier": 0.5,
+					"rotation": [0.0, 25.0, 0.0]
+				}
+
+
+			]
+		},
+		{
+			"PANORAMA": "img/panorama/2.jpg",
+			"OBJECT": [
+
+				{
+					"name": "",
+					"icon": "img/icon/gabel01.png",
+					"position": [-407.9172766291478, 19.150056681293645, 287.2639830567172],
+					"instagram": "https://www.instagram.com/p/B97WSfMpOo7/",
+					"sizeMultiplier": 0.5,
+					"rotation": [0.0, 0.0, 0.0]
+				},
+				{
+					"name": "",
+					"icon": "img/icon/amaya01.png",
+					"position": [218.46299172074544, 241.5840460031622, -378.84533137432726],
+					"instagram": "https://www.instagram.com/p/B8tdtBOK1Sm/",
+					"sizeMultiplier": 0.5,
+					"rotation": [0.0, 0.0, 0.0]
+				},
+				{
+					"name": "",
+					"icon": "img/icon/gsrger01.png",
+					"position": [445.192058035631, -163.86273419410355, -155.7274797009701],
+					"instagram": "https://www.instagram.com/p/B8JMtA1IhMb/",
+					"sizeMultiplier": 0.5,
+					"rotation": [0.0, 0.0, 0.0]
+				},
+				{
+					"name": "",
+					"icon": "img/icon/gjosep04.png",
+					"position": [-70.2660509516544, -206.6198938326025, -448.806532210705],
+					"instagram": "https://www.instagram.com/p/Bn2-qRqFwau/",
+					"sizeMultiplier": 0.5,
+					"rotation": [-60.0, 0.0, 50.0]
+				},
+				{
+					"name": "",
+					"icon": "img/icon/gnacho01.png",
+					"position": [-445.70062414723725, 173.48577343603347, -144.39169015206664],
+					"instagram": "https://www.instagram.com/p/BxaWQjPHQZZ/",
+					"sizeMultiplier": 0.5,
+					"rotation": [-8.0, 34.0, 0.0]
+				},
+				{
+					"name": "",
+					"icon": "img/icon/gmar02.png",
+					"position": [-464.87432937184025, -156.66110215799782, 95.4556004655288],
+					"instagram": "https://www.instagram.com/p/B494dScqEyK/",
+					"sizeMultiplier": 0.5,
+					"rotation": [0.0, 0.0, 0.0]
+				},
+				{
+					"name": "",
+					"icon": "img/icon/gcarl01.png",
+					"position": [319.30735549414186, -24.319553692395047, -382.7002057121406],
+					"instagram": "https://www.instagram.com/p/B8wUyhoFrTt/",
+					"sizeMultiplier": 0.5,
+					"rotation": [0.0, 0.0, 0.0]
+				},
+				{
+					"name": "",
+					"icon": "img/icon/gjorge01.png",
+					"position": [-240.5593636012523, 5.255901016517058, -437.5914934680095],
+					"instagram": "https://www.instagram.com/p/B9q0ybBKHPF/",
+					"sizeMultiplier": 0.5,
+					"rotation": [0.0, 0.0, 0.0]
+				},
+				{
+					"name": "",
+					"icon": "img/icon/geliot02.png",
+					"position": [382.24931108021684, 200.38077997398872, -250.74240248953507],
+					"instagram": "https://www.instagram.com/p/B5xoaBBgGwh/",
+					"sizeMultiplier": 0.5,
+					"rotation": [0.0, 0.0, 0.0]
+				},
+				{
+					"name": "",
+					"icon": "img/icon/gkaspar01.png",
+					"position": [88.10404634073583, -211.2988639954739, 443.8003420186561],
+					"instagram": "https://www.instagram.com/p/B0lnVSuozo9/",
+					"sizeMultiplier": 0.5,
+					"rotation": [0.0, 0.0, 0.0]
+				},
+				{
+					"name": "",
+					"icon": "img/icon/gidir01.png",
+					"position": [-21.887752858437608, 25.992934531964238, 497.8316562442018],
+					"instagram": "https://www.instagram.com/p/B9Eilc3iQF6/",
+					"sizeMultiplier": 0.5,
+					"rotation": [0.0, 0.0, 0.0]
+				},
+				{
+					"name": "",
+					"icon": "img/icon/gteo01.png",
+					"position": [310.94603336517713, 121.67715989246149, 371.15111523667355],
+					"instagram": "https://www.instagram.com/p/B76UqQpopLt/",
+					"sizeMultiplier": 0.5,
+					"rotation": [0.0, 0.0, 0.0]
+				},
+				{
+					"name": "",
+					"icon": "img/icon/gmar01.png",
+					"position": [468.70751749598685, -100.66295007628278, 138.98537901897294],
+					"instagram": "https://www.instagram.com/p/B-aax9IKgq0/",
+					"sizeMultiplier": 0.5,
+					"rotation": [0.0, 0.0, 0.0]
+				}
+
+
+			]
+		},
+		{
+			"PANORAMA": "img/panorama/3.jpg",
+			"OBJECT": [
+
+
+				{
+					"name": "",
+					"icon": "img/icon/gabel02.png",
+					"position": [-32.51478750321409, 166.02486358626211, -469.57562431396894],
+					"instagram": "https://www.instagram.com/p/B3CgInPoLn9/",
+					"sizeMultiplier": 0.5,
+					"rotation": [0.0, 0.0, 0.0]
+				},
+				{
+					"name": "",
+					"icon": "img/icon/gidir02.png",
+					"position": [112.97786393468135, -80.15546480983744, -479.8935151586384],
+					"instagram": "https://www.instagram.com/p/B9rQD1gIj_n/",
+					"sizeMultiplier": 0.5,
+					"rotation": [0.0, 0.0, 0.0]
+				},
+				{
+					"name": "",
+					"icon": "img/icon/gyeper02.png",
+					"position": [374.2035308265916, 152.09920945942872, -293.5616884364262],
+					"instagram": "https://www.instagram.com/p/B99Hzb3JDnn/",
+					"sizeMultiplier": 0.5,
+					"rotation": [0.0, 0.0, 0.0]
+				},
+				{
+					"name": "",
+					"icon": "img/icon/gteo02.png",
+					"position": [-68.17365103427176, 303.79370554448866, 390.29997803701406],
+					"instagram": "https://www.instagram.com/p/B70nJF0IqQd/",
+					"sizeMultiplier": 0.5,
+					"rotation": [0.0, 0.0, 0.0]
+				},
+				{
+					"name": "",
+					"icon": "img/icon/gteo03.png",
+					"position": [336.7195835344593, 177.55904549542691, 322.8475826285138],
+					"instagram": "https://www.instagram.com/p/B96yLIWop-s/",
+					"sizeMultiplier": 0.5,
+					"rotation": [0.0, 0.0, 0.0]
+				},
+				{
+					"name": "",
+					"icon": "img/icon/gsascha02.png",
+					"position": [-396.0896158533901, 293.5662282181325, -82.83871225857924],
+					"instagram": "https://www.instagram.com/p/B9yXqv5pc8u/",
+					"sizeMultiplier": 0.5,
+					"rotation": [0.0, 0.0, 0.0]
+				},
+				{
+					"name": "",
+					"icon": "img/icon/gjosep02.png",
+					"position": [461.08491980243184, -44.02943711125215, 186.25653591401343],
+					"instagram": "https://www.instagram.com/p/BxKvHzVAErh/",
+					"sizeMultiplier": 0.5,
+					"rotation": [0.0, 0.0, 0.0]
+				},
+				{
+					"name": "",
+					"icon": "img/icon/gsrger02.png",
+					"position": [174.49214780735957, -61.563498736082835, 463.3809413131049],
+					"instagram": "https://www.instagram.com/p/B4CcsziK0x6/",
+					"sizeMultiplier": 0.5,
+					"rotation": [0.0, 0.0, 0.0]
+				},
+				{
+					"name": "",
+					"icon": "img/icon/gluce02.png",
+					"position": [-396.15641110603985, 122.09793278215243, -278.6433451174154],
+					"instagram": "https://www.instagram.com/p/B9ON61jKcC8/",
+					"sizeMultiplier": 0.5,
+					"rotation": [0.0, 0.0, 0.0]
+				},
+				{
+					"name": "",
+					"icon": "img/icon/grosh02.png",
+					"position": [-499.17353764013376, 17.72612846758613, -2.4806787375706363],
+					"instagram": "https://www.instagram.com/p/B4zlKxhIn-G/",
+					"sizeMultiplier": 0.5,
+					"rotation": [0.0, 0.0, 0.0]
+				},
+				{
+					"name": "",
+					"icon": "img/icon/geloy02.png",
+					"position": [445.08885824619443, -214.7223805295578, 69.89351998229384],
+					"instagram": "https://www.instagram.com/p/BhYwyUJFhDy/",
+					"sizeMultiplier": 0.5,
+					"rotation": [0.0, 0.0, 0.0]
+				},
+				{
+					"name": "",
+					"icon": "img/icon/gxavi02.png",
+					"position": [-359.5643678813689, -250.19437135807405, -239.35545029109585],
+					"instagram": "https://www.instagram.com/p/BQNoqKoDQf6/",
+					"sizeMultiplier": 0.5,
+					"rotation": [0.0, 0.0, 0.0]
+				},
+				{
+					"name": "",
+					"icon": "img/icon/gadri01.png",
+					"position": [462.2408558818247, -30.671420080162573, -185.76529472132498],
+					"instagram": "https://www.instagram.com/p/BbcLihyF8ni/",
+					"sizeMultiplier": 0.5,
+					"rotation": [0.0, 0.0, 0.0]
+				},
+				{
+					"name": "",
+					"icon": "img/icon/gmikel02.png",
+					"position": [-256.05230835448316, 57.776740283372554, 424.63308847818473],
+					"instagram": "https://www.instagram.com/p/BvFJKNwhfKY/",
+					"sizeMultiplier": 0.5,
+					"rotation": [0.0, 0.0, 0.0]
+				},
+				{
+					"name": "",
+					"icon": "img/icon/gmiquel01.png",
+					"position": [-436.5084017806707, -31.13378187216906, 240.4485459377649],
+					"instagram": "https://www.instagram.com/p/B4nc1riCIDY/",
+					"sizeMultiplier": 0.5,
+					"rotation": [0.0, 0.0, 0.0]
+				},
+				{
+					"name": "",
+					"icon": "img/icon/ganne01.png",
+					"position": [34.347264752140234, -365.38420039318805, 338.9548302536713],
+					"instagram": "https://www.instagram.com/p/B-cibedBiye/",
+					"sizeMultiplier" : 0.5,
+					"rotation" : [0.0, 0.0, 0.0]
+				},
+				{
+					"name": "",
+					"icon": "img/icon/gaske01.png",
+					"position": [263.9632588770088, -125.33998732814926, -404.6010181328976],
+					"instagram": "https://www.instagram.com/p/B-eCa9iFZUE/",
+					"sizeMultiplier" : 0.5,
+					"rotation" : [-20.0, -35.0, 0.0]
+				}
+			]
+		}
+	]
+}
